@@ -1,6 +1,6 @@
 
 
-# 굇굃굈굉굊 Dashboard Reposición de Inventarios  - Power BI
+Dashboard Reposición de Inventarios  - Power BI
 Tablero de reposición en función a consumos promedio para la toma de decisión en el área de compras 
 ## 굓굔굕굖 Objetivo
 Tablero de reposición en función a consumos promedios para el area de compras.
